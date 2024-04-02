@@ -1,8 +1,10 @@
-body{
+body {
+  font: 32px "Century Gothic", Futura, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   background-color: #444;
   color: white;
   margin: 20px;
-  font: 32px "Century Gothic", Futura, sans-serif;
 }
 
 .game{
@@ -36,3 +38,5 @@ body{
   margin: 20px;
   font-size: 24px;
 }
+
+
